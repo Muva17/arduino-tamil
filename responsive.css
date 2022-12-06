@@ -1,0 +1,232 @@
+div.fbox1
+{
+    width: 70%;
+    margin-right: 13%;
+    margin-left: 13%;
+}
+div.fbox2
+{
+	width: 70%;
+    margin-right: 13%;
+    margin-left: 13%;
+}
+div.fbox3
+{
+	clear: both;
+	float: none;
+	width: auto;
+	margin-top: 10px;
+	padding: 20px 0 0 0;
+
+}
+div.bottom1
+{
+	    width: auto;
+		float: none;
+		margin-right: 0;
+		margin-right: 3%;
+		margin-left:  3%;
+		margin-bottom: 3%;
+}
+div.bottom1 p
+ {
+ 	font-size: 30px;
+ }
+div.bottom2
+{
+	    width: auto;
+		float: none;
+		margin-right: 0;
+		margin-right: 3%;
+		margin-left:  3%;
+		margin-bottom: 3%;
+}
+div.bottom11
+{
+	    width: auto;
+		float: none;
+		margin-right: 0;
+		margin-right: 3%;
+		margin-left:  3%;
+		margin-bottom: 3%;
+}
+div.bottom11 p
+ {
+ 	font-size: 30px;
+ }
+div.bottom22
+{
+	    width: auto;
+		float: none;
+		margin-right: 0;
+		margin-right: 3%;
+		margin-left:  3%;
+		margin-bottom: 3%;
+}
+.more
+{
+	width: 40px;
+	height: 40px;
+	background: black;
+	text-decoration: none;
+	color: white;
+	font-size:29px;
+	padding: 5px;
+	align-items: center;
+}
+	.mobile-collapse
+	{
+		margin-bottom: 2%;
+	}
+.slide
+	{
+		width: 90%;
+		height: 300px;
+	}
+
+.res-box
+{
+	width: 47%;
+	height: 300px;
+	margin-left: 10px;
+
+}
+.floatbox1
+{
+	width:66%;
+	height:auto;
+	float:left;
+	margin-left:30px;
+	margin-bottom:5%;
+}
+.floatbox2
+{
+	width:26%;
+	height:auto;
+	float:right;
+	margin-right:30px;
+	margin-bottom:5%;
+}
+
+@media screen and (max-width: 800px)
+{
+	.floatbox1
+	{
+	width:66%;
+	height:auto;
+	float:left;
+	margin-left:20px;
+	margin-bottom:5%;
+	}
+	.floatbox2
+	{
+	clear: both;
+	width:26%;
+	height:auto;
+	float:right;
+	margin-right:20px;
+	margin-bottom:5%;
+	}
+div.fbox1
+{
+
+width: auto;
+}
+div.fbox2
+{
+width: auto;
+}
+div.fbox3
+{
+	clear: both;
+	float: none;
+	width: auto;
+	margin-top: 10px;
+	padding: 20px 0 0 0;
+
+}
+}
+@media screen and (max-width: 750px)
+{
+	.floatdiv
+	{
+		width: auto;
+		height: auto;
+		float: none;
+		margin-right: 3%;
+		margin-left:  3%;
+		margin-bottom: 5%;
+	}div.fbox1
+{
+
+width: auto;
+}
+div.fbox2
+{
+width: auto;
+}
+div.fbox3
+{
+	clear: both;
+	float: none;
+	width: auto;
+	margin-top: 10px;
+	padding: 20px 0 0 0;
+
+}
+
+}
+@media screen and (max-width: 540px)
+{
+	.floatdiv .ftitle h1
+	{
+		float: none;
+		clear: both;
+		width: auto;
+
+	}
+	p
+	{	
+		margin-right: 5%;
+}
+.floatbox1 img
+{
+	float: none;
+	clear: both;
+	width: 85%;
+	height: 250px;
+}
+	.res-box
+}
+{
+	width: 80%; 
+	height: 300px;
+	margin-left: 10%;
+}
+.menubox a
+{
+	font-size: 15px;
+	margin-left: 35px;
+}
+
+	.mobile-collapse
+	{
+		width: auto;
+		float: none;
+		margin-right: 4%;
+		margin-left:  4%;
+		margin-bottom: 6%;
+	}
+	.slide
+	{
+		width: 90%;
+		height: 190px;
+	}
+	.more
+	{
+		width: 30px;
+		height: 30px;
+		font-size: 25px;
+		padding: 5px;
+	} 
+}
